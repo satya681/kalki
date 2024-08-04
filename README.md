@@ -1,2 +1,3 @@
 # kalki
-frist 
+frist job cratad  
+devepos
